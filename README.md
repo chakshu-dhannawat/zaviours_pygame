@@ -5,9 +5,9 @@
 Step 1: Download the zip file of this repository.
 Step 2: Unzip it
 Step 3: Open command prompt in the unzipped directory and type the following:
-'''
+```python
 python game.py
-'''
+```
 Step 4: Enjoy :)
  
  
